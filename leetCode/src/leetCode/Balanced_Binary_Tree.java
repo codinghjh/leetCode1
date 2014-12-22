@@ -1,8 +1,5 @@
 package leetCode;
 
-
-
-
 public class Balanced_Binary_Tree {
     public boolean isBalanced(TreeNode root) {
        boolean isBalan=false;

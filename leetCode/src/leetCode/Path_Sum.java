@@ -1,13 +1,4 @@
 package leetCode;
-
-import java.util.Stack;
-
-class TreeNode {
-	      int val;
-	      TreeNode left;
-	      TreeNode right;
-	      TreeNode(int x) { val = x; }
-	  }
 public class Path_Sum {
 	    public boolean hasPathSum(TreeNode root, int sum) {
 	    	boolean isExist=false;
